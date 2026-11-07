@@ -1,0 +1,11 @@
+{
+  "enabled": true,
+  "notice_id": "notice_001",
+  "category": "SYSTEM ANNOUNCEMENT",
+  "title": "Informasi Terbaru",
+  "message": "Ada informasi terbaru untuk pengguna SBOYZ.",
+  "content": "Selamat datang di SBOYZ.\n\nSilakan baca informasi ini sebelum melanjutkan penggunaan aplikasi.\n\nTerima kasih telah menggunakan SBFAKE.",
+  "action_text": "MENGERTI",
+  "close_text": "TUTUP",
+  "show_once": true
+}
