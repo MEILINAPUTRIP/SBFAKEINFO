@@ -1,11 +1,11 @@
 {
   "enabled": true,
   "notice_id": "notice_001",
-  "category": "SYSTEM ANNOUNCEMENT",
-  "title": "Informasi Terbaru",
-  "message": "Ada informasi terbaru untuk pengguna SBOYZ.",
-  "content": "Selamat datang di SBOYZ.\n\nSilakan baca informasi ini sebelum melanjutkan penggunaan aplikasi.\n\nTerima kasih telah menggunakan SBFAKE.",
-  "action_text": "MENGERTI",
+  "category": "SYSTEM ALERT",
+  "title": "Peringatan Penggunaan Fitur",
+  "message": "Mohon jangan terlalu berlebihan dalam menggunakan fitur sortir, ya kak.",
+  "content": "PERHATIAN UNTUK SELURUH PENGGUNA SBOYZ\n\nKami mengimbau agar tidak terlalu berlebihan dalam menggunakan fitur SORTIR.\n\nGunakan fitur sewajarnya dan tetap perhatikan kondisi serta aktivitas akun masing-masing.\n\nHindari penggunaan secara terus-menerus atau tidak wajar.\n\nTerima kasih atas perhatian dan kerja samanya.\n\nSBOYZGRABMODZ",
+  "action_text": "SAYA MENGERTI",
   "close_text": "TUTUP",
   "show_once": true
 }
