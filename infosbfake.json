@@ -1,10 +1,10 @@
 {
-  "enabled": true,
+  "enabled": false,
   "notice_id": "notice_001",
   "category": "SYSTEM ALERT",
   "title": "Peringatan Penggunaan Fitur",
   "message": "Mohon jangan terlalu berlebihan dalam menggunakan fitur sortir, ya kak.",
-  "content": "PERHATIAN UNTUK SELURUH PENGGUNA SBOYZ\n\nKami mengimbau agar tidak terlalu berlebihan dalam menggunakan fitur SORTIR.\n\nGunakan fitur sewajarnya dan tetap perhatikan kondisi serta aktivitas akun masing-masing.\n\nHindari penggunaan secara terus-menerus atau tidak wajar.\n\nTerima kasih atas perhatian dan kerja samanya.\n\nSBOYZGRABMODZ",
+  "content": "PERHATIAN UNTUK SELURUH PENGGUNA SBOYZ",
   "action_text": "SAYA MENGERTI",
   "close_text": "TUTUP",
   "show_once": true
