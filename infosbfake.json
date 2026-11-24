@@ -1,10 +1,10 @@
 {
-  "enabled": false,
+  "enabled": true,
   "notice_id": "notice_001",
   "category": "SYSTEM ALERT",
-  "title": "Peringatan Penggunaan Fitur",
-  "message": "Mohon jangan terlalu berlebihan dalam menggunakan fitur sortir, ya kak.",
-  "content": "PERHATIAN UNTUK SELURUH PENGGUNA SBOYZ",
+  "title": "Peringatan Suspend & Putus Mitra",
+  "message": "Mohon gunakan fitur SBOYZ secara bijak untuk menjaga keamanan akun masing-masing.",
+  "content": "PERHATIAN UNTUK SELURUH PENGGUNA SBOYZ\n\n⚠️ PENYEBAB AKUN SUSPEND:\n\n1. Penggunaan fitur SORTIR secara berlebihan.\n2. Mengabaikan RULES Group VIP.\n3. Melewatkan order lebih dari 2 kali secara berturut-turut.\n\n⚠️ PENYEBAB PUTUS MITRA (PM):\n\n1. Kondisi HP oprekan tidak sehat.\n2. Memaksakan login hingga 3 kali sehari saat MOD bermasalah.\n3. Sudah mengalami kode 168 sebanyak 3 kali.\n\nPESAN MANAGEMENT:\n\nGunakan fitur sewajarnya, jangan memaksakan login ketika MOD bermasalah, dan selalu patuhi RULES yang berlaku.\n\nJangan sampai akun menjadi korban karena penggunaan fitur yang berlebihan.\n\nGUNAKAN DENGAN BIJAK, JAGA AKUN MASING-MASING!\n\nKELUARGA SBOYZ",
   "action_text": "SAYA MENGERTI",
   "close_text": "TUTUP",
   "show_once": true
